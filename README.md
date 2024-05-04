@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
 
 <!--
 **akorra24/akorra24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
