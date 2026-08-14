@@ -12,7 +12,6 @@
 ---
 
 
-<a href="#tech-room"><img src="./assets/tech-room.png" width="100%" alt="Tech door" /></a>
 
 CS background. I like knowing how the thing actually works.
 
@@ -21,7 +20,6 @@ CS background. I like knowing how the thing actually works.
     </td>
     <td valign="top" width="25%" align="center">
 
-<a href="#design-room"><img src="./assets/design-room.png" width="100%" alt="Design door" /></a>
 
 Obsessed with clean, intuitive product experiences.
 
@@ -30,7 +28,6 @@ Obsessed with clean, intuitive product experiences.
     </td>
     <td valign="top" width="25%" align="center">
 
-<a href="#life-room"><img src="./assets/life-room.png" width="100%" alt="Life door" /></a>
 
 Sports, movies, hiking, good food &amp; side quests.
 
