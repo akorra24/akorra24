@@ -21,29 +21,11 @@ Product strategy. Consumer eCommerce. Discovery → delivery. Experimentation. U
 
 ---
 
-<a name="tech-room"></a>
+<a name="life-room"></a>
 
-## TECH ROOM
+## LIFE ROOM
 
-I came into product through computer science, so I'm happiest when I can understand both the user problem and what is happening underneath the interface.
-
----
-
-<a name="design-room"></a>
-
-## DESIGN ROOM
-
-Good product design should make complicated things feel obvious.
-
-UX, wireframes, Figma, responsive experiences, prototypes — and a lot of time in the hallway between design and engineering, so the intended experience is the one that ships.
-
----
-
-## PROGRAMS
-
-<p align="center">
-  <img src="./assets/achievements.png" width="100%" alt="Programs: Jira, Figma, Cursor, Claude, Confluence" />
-</p>
+Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side projects and random builds that seemed interesting at 1am.
 
 ---
 
@@ -57,12 +39,11 @@ UX, wireframes, Figma, responsive experiences, prototypes — and a lot of time 
 Hotel radio changes frequently.</p>
 
 ---
+## PROGRAMS
 
-<a name="life-room"></a>
-
-## LIFE ROOM
-
-Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side projects and random builds that seemed interesting at 1am.
+<p align="center">
+  <img src="./assets/achievements.png" width="100%" alt="Programs: Jira, Figma, Cursor, Claude, Confluence" />
+</p>
 
 ---
 
