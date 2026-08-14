@@ -19,10 +19,6 @@
 
 <a name="life-room"></a>
 
-## LIFE ROOM
-
-Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side projects and random builds that seemed interesting at 1am.
-
 ---
 
 ## NOW PLAYING
