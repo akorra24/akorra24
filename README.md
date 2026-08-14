@@ -6,44 +6,10 @@
 <p align="center">
   <img src="./assets/hotel-header.png" width="100%" alt="akorra24's Habbo Hotel — WELCOME TO MY HOTEL. Click around and explore." />
 </p>
-
-<p align="center"><code>Click a door. Walk the rooms.</code></p>
-
 ---
-
-
-
-CS background. I like knowing how the thing actually works.
-
-<a href="#tech-room"><code>ENTER</code></a>
-
-    </td>
-    <td valign="top" width="25%" align="center">
-
-
-Obsessed with clean, intuitive product experiences.
-
-<a href="#design-room"><code>ENTER</code></a>
-
-    </td>
-    <td valign="top" width="25%" align="center">
-
-
-Sports, movies, hiking, good food &amp; side quests.
-
-<a href="#life-room"><code>ENTER</code></a>
-
-    </td>
-  </tr>
-</table>
-
----
-
 <a name="product-room"></a>
 
 ## PRODUCT ROOM
-
-Turning customer problems into experiences people actually want to use.
 
 Associate Product Manager. Los Angeles. I work where product, software, UX, experimentation, and data meet — and I care about whether people actually use the thing.
 
