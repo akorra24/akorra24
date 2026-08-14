@@ -12,11 +12,6 @@
 ---
 
 
-<a href="#product-room"><code>ENTER</code></a>
-
-    </td>
-    <td valign="top" width="25%" align="center">
-
 <a href="#tech-room"><img src="./assets/tech-room.png" width="100%" alt="Tech door" /></a>
 
 CS background. I like knowing how the thing actually works.
