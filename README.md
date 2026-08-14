@@ -12,7 +12,7 @@ Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side pro
 ---
 <a name="product-room"></a>
 
-## PRODUCT ROOM
+## Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side projects and random builds that seemed interesting at 1am.
 
 Associate Product Manager. Los Angeles. I work where product, software, UX, experimentation, and data meet — and I care about whether people actually use the thing.
 
