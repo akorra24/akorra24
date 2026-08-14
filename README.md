@@ -34,9 +34,5 @@ Hotel radio changes frequently.</p>
 
 ---
 
-<p align="center">
-  <img src="./assets/hotel-footer.png" width="100%" alt="Say hi sometime! SAY" />
-</p>
-
 <p align="center"><code>[ akorra24 has left the hotel. ]</code><br>
 Last checkout: probably later than I should've been awake.</p>
