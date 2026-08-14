@@ -20,7 +20,6 @@
 <a name="life-room"></a>
 
 ---
-
 ## NOW PLAYING
 
 <p align="center">
