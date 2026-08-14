@@ -1,7 +1,6 @@
 <!--
   akorra24's Habbo Hotel — GitHub profile README
   The unique visual is the full client screenshot in hotel-header.png.
-  Everything below is the clickable hotel: doors, rooms, guestbook.
 -->
 
 <p align="center">
@@ -16,7 +15,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="20%" align="center">
+    <td valign="top" width="25%" align="center">
 
 <a href="#product-room"><img src="./assets/product-room.png" width="100%" alt="Product door" /></a>
 
@@ -25,7 +24,7 @@ Turning messy problems into simple, useful experiences.
 <a href="#product-room"><code>ENTER</code></a>
 
     </td>
-    <td valign="top" width="20%" align="center">
+    <td valign="top" width="25%" align="center">
 
 <a href="#tech-room"><img src="./assets/tech-room.png" width="100%" alt="Tech door" /></a>
 
@@ -34,16 +33,7 @@ CS background. I like knowing how the thing actually works.
 <a href="#tech-room"><code>ENTER</code></a>
 
     </td>
-    <td valign="top" width="20%" align="center">
-
-<a href="#data-room"><img src="./assets/data-room.png" width="100%" alt="Data door" /></a>
-
-Metrics &gt; opinions. Measure, learn, iterate.
-
-<a href="#data-room"><code>ENTER</code></a>
-
-    </td>
-    <td valign="top" width="20%" align="center">
+    <td valign="top" width="25%" align="center">
 
 <a href="#design-room"><img src="./assets/design-room.png" width="100%" alt="Design door" /></a>
 
@@ -52,7 +42,7 @@ Obsessed with clean, intuitive product experiences.
 <a href="#design-room"><code>ENTER</code></a>
 
     </td>
-    <td valign="top" width="20%" align="center">
+    <td valign="top" width="25%" align="center">
 
 <a href="#life-room"><img src="./assets/life-room.png" width="100%" alt="Life door" /></a>
 
@@ -88,22 +78,6 @@ Product strategy. Consumer eCommerce. Discovery → delivery. Experimentation. U
 
 I came into product through computer science, so I'm happiest when I can understand both the user problem and what is happening underneath the interface.
 
-**Inventory**
-
-`[ CODE ]` `[ APIs ]` `[ FIGMA ]` `[ DATA ]` `[ GIT ]` `[ AI ]`
-
-Software fundamentals, frontend systems, Git/GitHub, rapid prototyping, AI-assisted development, and sitting with engineering until the thing actually works.
-
----
-
-<a name="data-room"></a>
-
-## DATA ROOM
-
-`Metrics > opinions.`
-
-Funnels, conversion, behavioral analytics. Turn that into a hypothesis, a test, and a decision. Launch is when the learning starts — not when the argument ends.
-
 ---
 
 <a name="design-room"></a>
@@ -116,31 +90,10 @@ UX, wireframes, Figma, responsive experiences, prototypes — and a lot of time 
 
 ---
 
-<a name="projects-room"></a>
-
-## PROJECT ROOMS
-
-Rooms in progress.
-
-**ShowMo** — What should I watch next? Discover movies and shows through your own taste and people you trust. `under construction`
-
-**Family Plan Builder** — Making multi-line / family plan choices feel obvious.
-
-**Apple Watch Cart** — Purchase flow work across devices, cart, and checkout.
-
-<table>
-  <tr>
-    <td><a href="https://github.com/akorra24/showmo"><code>[ SHOWMO REPO ]</code></a></td>
-    <td><code>[ LIVE DEMO — soon ]</code></td>
-  </tr>
-</table>
-
----
-
-## ACHIEVEMENTS
+## PROGRAMS
 
 <p align="center">
-  <img src="./assets/achievements.png" width="100%" alt="Skills: Jira, Figma, Cursor, Claude, Confluence" />
+  <img src="./assets/achievements.png" width="100%" alt="Programs: Jira, Figma, Cursor, Claude, Confluence" />
 </p>
 
 ---
@@ -161,63 +114,6 @@ Hotel radio changes frequently.</p>
 ## LIFE ROOM
 
 Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side projects and random builds that seemed interesting at 1am.
-
----
-
-## HOTEL INFO
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="40%" align="center">
-
-<img src="./assets/hotel-info.png" width="100%" alt="Hotel info" />
-
-    </td>
-    <td valign="top" width="60%" align="center">
-
-**Hotel Friends**
-
-<img src="./assets/hotel-friends.png" width="100%" alt="Hotel friends" />
-
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary>Open Hotel Info</summary>
-
-**Guest:** akorra24
-
-**Class:** Associate Product Manager / Builder
-
-**Location:** Los Angeles, CA
-
-**Motto:** Always building.
-
-**Mission:** Build useful things and understand why they work.
-
-</details>
-
-<details>
-<summary>Hotel Directory Help</summary>
-
-Click any door in the Hotel Directory to jump to that room.
-
-</details>
-
----
-
-## GUESTBOOK
-
-Made it this far? Say hi.
-
-<table>
-  <tr>
-    <td><a href="https://github.com/akorra24"><code>[ VIEW PROFILE ]</code></a></td>
-    <td><a href="https://www.linkedin.com/in/YOUR_HANDLE"><code>[ SEND MESSAGE ]</code></a></td>
-    <td><a href="mailto:YOUR_EMAIL"><code>[ EMAIL FRONT DESK ]</code></a></td>
-  </tr>
-</table>
 
 ---
 
