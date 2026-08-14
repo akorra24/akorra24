@@ -6,6 +6,7 @@
 <p align="center">
   <img src="./assets/hotel-header.png" width="100%" alt="akorra24's Habbo Hotel — WELCOME TO MY HOTEL. Click around and explore." />
 </p>
+
 Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side projects and random builds that seemed interesting at 1am.
 
 ---
