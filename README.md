@@ -11,15 +11,6 @@
 
 ---
 
-## HOTEL DIRECTORY
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="25%" align="center">
-
-<a href="#product-room"><img src="./assets/product-room.png" width="100%" alt="Product door" /></a>
-
-Turning messy problems into simple, useful experiences.
 
 <a href="#product-room"><code>ENTER</code></a>
 
