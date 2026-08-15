@@ -1,4 +1,3 @@
-### Philadelphia sports. Fantasy football. Hiking. A fishtank. A 2000s BMW. Side hustles and random builds that seem interesting at 1am.
 <p align="center">
   <img src="./assets/lobby-room.png" width="100%" alt="The hotel room — building at the desk" />
 </p>
